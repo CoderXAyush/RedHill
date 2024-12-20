@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+.notranslate {
+  unicode-bidi: plaintext;
+}
+
+#file-upload-button {
+  cursor: pointer;
+  height: 0;
+}
+
+.skiptranslate {
+  iframe {
+    display: none;
+  }
+}
+
+html {
+  min-width: 320px; /* Minimum width for mobile devices */
+  overflow-x: auto; /* Allow horizontal scrolling if content is wider */
+}
+
+body {
+  top: 0px !important;
+  min-width: 320px; /* Match html min-width */
+  width: 100%;
+  overflow-x: hidden; /* Hide horizontal scrollbar on body */
+}
+
+.custom-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 9999px;
+}
+
+.custom-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 0, 0, 0.2) transparent;
+}
