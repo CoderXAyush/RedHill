@@ -1,2 +1,3 @@
 chore: initial project setup and env config
 feat: add base folder structure for backend and frontend
+docs: update README with project overview
