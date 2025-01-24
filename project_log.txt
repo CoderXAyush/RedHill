@@ -4,3 +4,4 @@ docs: update README with project overview
 feat(ui): add login and register components
 style: global css and theme adjustments
 feat(api): setup express server with routes
+fix: validation middleware bug
