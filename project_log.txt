@@ -6,3 +6,4 @@ style: global css and theme adjustments
 feat(api): setup express server with routes
 fix: validation middleware bug
 feat: connect mongodb and add schema
+refactor: split routes into separate modules
