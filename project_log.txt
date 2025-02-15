@@ -7,3 +7,4 @@ feat(api): setup express server with routes
 fix: validation middleware bug
 feat: connect mongodb and add schema
 refactor: split routes into separate modules
+test: add auth route tests
