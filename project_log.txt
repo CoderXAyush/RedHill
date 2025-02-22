@@ -8,3 +8,4 @@ fix: validation middleware bug
 feat: connect mongodb and add schema
 refactor: split routes into separate modules
 test: add auth route tests
+feat(ui): build complaints page
