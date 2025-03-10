@@ -11,3 +11,4 @@ test: add auth route tests
 feat(ui): build complaints page
 fix(ui): complaint form responsiveness
 feat: integrate complaint API with frontend
+perf: optimize form validation logic
