@@ -14,3 +14,4 @@ feat: integrate complaint API with frontend
 perf: optimize form validation logic
 feat: add update profile UI
 fix: toast messages not showing on error
+chore: setup nodemailer for otp mail
