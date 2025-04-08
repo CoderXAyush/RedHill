@@ -15,3 +15,4 @@ perf: optimize form validation logic
 feat: add update profile UI
 fix: toast messages not showing on error
 chore: setup nodemailer for otp mail
+feat: add OTP verification flow
