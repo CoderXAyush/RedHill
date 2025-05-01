@@ -18,3 +18,4 @@ chore: setup nodemailer for otp mail
 feat: add OTP verification flow
 fix: redis connection retry bug
 feat: add admin dashboard base
+style: improve dashboard layout
