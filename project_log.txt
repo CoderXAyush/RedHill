@@ -20,3 +20,4 @@ fix: redis connection retry bug
 feat: add admin dashboard base
 style: improve dashboard layout
 feat: link backend to dashboard charts
+refactor: unify axios interceptors
