@@ -23,3 +23,4 @@ feat: link backend to dashboard charts
 refactor: unify axios interceptors
 fix: token refresh loop issue
 chore: add pre-commit hook for linting
+feat(ui): add search filter in complaints tab
