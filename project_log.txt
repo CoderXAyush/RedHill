@@ -25,3 +25,4 @@ fix: token refresh loop issue
 chore: add pre-commit hook for linting
 feat(ui): add search filter in complaints tab
 fix(ui): complaint modal z-index
+feat: add notification service
