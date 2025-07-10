@@ -28,3 +28,4 @@ fix(ui): complaint modal z-index
 feat: add notification service
 refactor: folder restructure and cleanup
 fix: async issue in notifications
+docs: added API documentation
